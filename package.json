@@ -1,0 +1,21 @@
+{
+    "name": "sandeep-reddy-likki-portfolio",
+    "version": "1.0.0",
+    "description": "Sandeep Reddy Likki's Senior Visualization Specialist portfolio website.",
+    "main": "index.html",
+    "scripts": {
+      "dev": "live-server",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "portfolio",
+      "visualization",
+      "powerbi",
+      "reporting"
+    ],
+    "author": "Sandeep Reddy Likki",
+    "license": "ISC",
+    "devDependencies": {
+      "live-server": "^1.2.2"
+    }
+  }
